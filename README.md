@@ -1,14 +1,12 @@
 ------------
 
-# Bajaj Finserv Health Hiring Challenge – Java Spring Boot
-
 ## 🚀 Overview
 
 This project is my solution to the **Bajaj Finserv Health Hiring Challenge (Java)**.
 It is a **Spring Boot application** that runs automatically on startup and performs the following tasks:
 
 1. Sends a **POST request** to generate a webhook.
-2. Determines the correct SQL question based on my **registration number (22BCE2394 → Even → Question 2)**.
+2. Determines the correct SQL question based on my **registration number (`22BCE2394` → Even → Question 2)**.
 3. Builds the **SQL solution query**.
 4. Submits the query to the provided webhook using **JWT authentication**.
 5. Logs all the steps and responses to the console.
