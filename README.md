@@ -1,4 +1,4 @@
----
+------------
 
 # Bajaj Finserv Health Hiring Challenge – Java Spring Boot
 
@@ -13,7 +13,7 @@ It is a **Spring Boot application** that runs automatically on startup and perfo
 4. Submits the query to the provided webhook using **JWT authentication**.
 5. Logs all the steps and responses to the console.
 
----
+-------------
 
 ## 🛠️ Tech Stack
 
