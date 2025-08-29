@@ -44,7 +44,7 @@ bajaj-finserv-hiring-challenge/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/bajaj-finserv-hiring-challenge.git
+git clone https://github.com/y2jjjj/bajaj-finserv-hiring-challenge.git
 cd bajaj-finserv-hiring-challenge
 ```
 
